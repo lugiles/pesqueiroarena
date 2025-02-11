@@ -1,11 +1,5 @@
 {
-    "name": "meu-projeto",
-    "version": "1.0.0",
-    "description": "Projeto para servir index.html",
     "scripts": {
-        "start": "serve -s ."
-    },
-    "dependencies": {
-        "serve": "^14.0.0"
+        "vercel-build": "echo 'Build concluído'"
     }
 }
